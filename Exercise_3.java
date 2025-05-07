@@ -80,11 +80,9 @@ class SinglyLinkedList {
     { 
         /* Start with the empty list. */
         SinglyLinkedList list = new SinglyLinkedList();
-  
         // 
         // ******INSERTION****** 
-        // 
-  
+        //
         // Insert the values 
         list = insert(list, 1); 
         list = insert(list, 2); 
@@ -94,6 +92,5 @@ class SinglyLinkedList {
   
         // Print the LinkedList 
         printList(list);
-
     } 
 }
