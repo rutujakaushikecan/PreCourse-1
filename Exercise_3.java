@@ -93,6 +93,7 @@ class SinglyLinkedList {
         list = insert(list, 5); 
   
         // Print the LinkedList 
-        printList(list); 
+        printList(list);
+
     } 
 }
